@@ -11,5 +11,8 @@ This list was obtained from my own personal experience and may not be up-to-date
 
 = Other Implementations =
 
-|| *IdP* || *SP* || Python || Django || *What* || *Link* ||
-| No | Yes | Yes | No | PySAML2 | [http://packages.python.org/pysaml2/html/] |
+|| *IdP* || *SP* || *Target* || *What* || *Link* || *Comment* ||
+|| No || Yes || Python || PySAML2 || [http://packages.python.org/pysaml2/html/] || ||
+|| No || Yes || Django || djangosaml2 || [http://packages.python.org/djangosaml2/] || Builds on PySAML2 ||
+|| Yes || Yes || Python || python-saml2 || [http://code.google.com/p/python-saml2/] || ||
+|| Yes || No(?) || Django || GHeimdall2 || [https://bitbucket.org/tmatsuo/gheimdall2/] || ||
