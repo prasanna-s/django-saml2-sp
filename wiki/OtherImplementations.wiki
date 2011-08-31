@@ -1,0 +1,15 @@
+#summary Other implementations of SAML 2.0 for Python or Django
+
+= Introduction =
+
+Even using Google Search, you won't find all of these right away. This list is posted here with the hope that we can come together as a community on SAML 2.0 for Python and Django.
+
+
+= Disclaimer =
+
+This list was obtained from my own personal experience and may not be up-to-date or accurate. Please help me update it.
+
+= Other Implementations =
+
+|| *IdP* || *SP* || Python || Django || *What* || *Link* ||
+| No | Yes | Yes | No | PySAML2 | [http://packages.python.org/pysaml2/html/] |
