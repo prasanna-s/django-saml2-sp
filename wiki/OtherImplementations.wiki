@@ -16,7 +16,7 @@ This list was obtained from my own personal experience and may not be up-to-date
 || No || Yes || Django || djangosaml2 || [http://packages.python.org/djangosaml2/] || Builds on PySAML2 ||
 || Yes || Yes || Python || python-saml2 || [http://code.google.com/p/python-saml2/] || ||
 || Yes || No(?) || Django || GHeimdall2 || [https://bitbucket.org/tmatsuo/gheimdall2/] || Builds on python-saml2 ||
-|| Yes || Yes || Python || python-lasso || [http://lasso.entrouvert.org/ || python bindings into a C++ library; poor python documentation and difficult to grok ||
+|| Yes || Yes || Python || python-lasso || [http://lasso.entrouvert.org/] || python bindings into a C++ library; poor python documentation and difficult to grok ||
 
 
 = The State of SAML 2.0 in Python/Django =
