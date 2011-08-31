@@ -17,6 +17,10 @@ This list was obtained from my own personal experience and may not be up-to-date
 || Yes || Yes || Python || python-saml2 || [http://code.google.com/p/python-saml2/] || ||
 || Yes || No(?) || Django || GHeimdall2 || [https://bitbucket.org/tmatsuo/gheimdall2/] || Builds on python-saml2 ||
 
+
 = The State of SAML 2.0 in Python/Django =
 
-Sadly, none of these implementations (this one included) are very complete or easy to use. Can we combine our efforts to produce a SAML 2.0 implementation that is both Pythonic and Django-esque?
+Sadly, none of these implementations (this one included) are very complete or easy to use. Can we combine our efforts to produce a SAML 2.0 implementation that is:
+  * Pythonic
+  * Django-esque
+  * as complete as simpleSAMLphp and Shibboleth
